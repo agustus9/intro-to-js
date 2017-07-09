@@ -160,7 +160,7 @@ if(x){
 } else {
 	console.log("False!");
 }
-// A: true
+// A: false
 
 
 // 22.
